@@ -43,19 +43,8 @@ The National Cancer Institute used `heatmaply` to show incidence rates for cance
 
 An article on the Environmental impact and mobility of thallium and other metal(oid)s in soils near a decommissioned Zn-Pb mine used `heatmaply` to show a clustermap of major and trace element total concentrations in samples. 
 
-Example: 
-```{r}
-library(heatmaply)
-heatmaply_cor(
-  cor(mtcars),
-  xlab = "Features",
-  ylab = "Features",
-  k_col = 2,
-  k_row = 2
-)
 
-```
-
+![](Rplot.png)
 
 ## Review of `heatmaply`
 
