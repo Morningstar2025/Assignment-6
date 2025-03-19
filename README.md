@@ -1,10 +1,12 @@
 # Assignment 6
 <center>
+
 Angela Dillon 
 
 Fish 549
 
 March 18, 2025
+
 </center>
 
 # Exploring R Packages: `heatmaply`
