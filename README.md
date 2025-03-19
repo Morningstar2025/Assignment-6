@@ -1,15 +1,7 @@
 # Assignment-6
-Completed
----
-title: "Assignment 6"
-author: "Angela Dillon"
-date: "`r Sys.Date()`"
-output: pdf_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Angela Dillon 
+Fish 549
+March 18, 2025
 
 # Exploring R Packages: `heatmaply`
 Fish 549 - Best Practices in Environmental Data Science
@@ -78,19 +70,19 @@ Several applications and tutorials can be found on
 * YouTube
 
 ### Pros
--Interactive and user friendly: Unlike static heatmaps, `heatmaply` allows users to zoom, hover, and pan across the map.
+* Interactive and user friendly: Unlike static heatmaps, `heatmaply` allows users to zoom, hover, and pan across the map.
 
--Customizable clustering: Offers hierarchical clustering with different distance metrics. 
+* Customizable clustering: Offers hierarchical clustering with different distance metrics. 
 
--Publication ready graphics: Works well for reports and presentations.
+* Publication ready graphics: Works well for reports and presentations.
 
--Compatible: Works with Shiny, R Markdown, and HTML
+* Compatible: Works with Shiny, R Markdown, and HTML
 
 ### Cons 
 
--Not great with large data sets. 
+* Not great with large data sets. 
 
--Steep learning curve.
+* Steep learning curve.
 
 # Recommendation:
 
