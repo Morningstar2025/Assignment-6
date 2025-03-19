@@ -1,9 +1,11 @@
-# Assignment-6
+# Assignment 6
+<center>
 Angela Dillon 
 
 Fish 549
 
 March 18, 2025
+</center>
 
 # Exploring R Packages: `heatmaply`
 Fish 549 - Best Practices in Environmental Data Science
@@ -41,7 +43,7 @@ The National Cancer Institute used `heatmaply` to show incidence rates for cance
 
 An article on the Environmental impact and mobility of thallium and other metal(oid)s in soils near a decommissioned Zn-Pb mine used `heatmaply` to show a clustermap of major and trace element total concentrations in samples. 
 
-Testing: 
+Example: 
 ```{r}
 library(heatmaply)
 heatmaply_cor(
