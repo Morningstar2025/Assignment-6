@@ -1,6 +1,4 @@
-`<center>`
 # Assignment 6
-
 
 Angela Dillon 
 
@@ -8,7 +6,6 @@ Fish 549
 
 March 18, 2025
 
-`</center>`
 
 # Exploring R Packages: `heatmaply`
 Fish 549 - Best Practices in Environmental Data Science
